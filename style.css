@@ -4,8 +4,15 @@
     text-align: center;
 }
 
-body{
+h1{
+    color: orange;
+}
+
+p{
     color: white;
+}
+
+body{
     background-image: url('peakpx.jpg');
     width: 100%;
 }
