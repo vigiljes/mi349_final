@@ -4,11 +4,8 @@
     text-align: center;
 }
 
-h1{
-    color: white;
-}
-
 body{
+    color: white;
     background-image: url('peakpx.jpg');
     width: 100%;
 }
