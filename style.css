@@ -32,10 +32,22 @@ body{
     border: 1px solid gray;
 }
 
-.awning .flashy .disk{
+.awning{
     margin: 0;
     padding: 0;
     list-style-type: none;
+}
+
+.disk{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.disk li{
+    width: 474px;
+    display: inline-block;
+    padding: 20px 10px;
 }
 
 .content{
