@@ -5,14 +5,13 @@
 }
 
 h1{
-    background: fixed;
+    background-color: white;
     color: orange;
     text-align: center;
 }
 
 p{
     background-color: gray;
-    background: fixed;
     color: white;
 }
 
