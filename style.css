@@ -46,7 +46,7 @@ body{
 
 .disk li{
     width: 474px;
-    display: inline-block;
+    display: -ms-inline-grid;
     padding: 0;
 }
 
