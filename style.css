@@ -47,7 +47,7 @@ body{
 .disk li{
     width: 474px;
     display: inline-block;
-    padding: 20px 10px;
+    padding: 0;
 }
 
 .content{
