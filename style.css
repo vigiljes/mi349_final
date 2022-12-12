@@ -31,3 +31,19 @@ body{
     box-shadow: rgba(0, 0 0, 0.1) 0px 10px 10px;
     border: 1px solid gray;
 }
+
+.awning .flashy{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.content{
+    background-color: gray;
+    border-radius: 15px;
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+    box-shadow: rgba(0, 0 0, 0.1) 0px 10px 10px;
+    border: 1px solid gray;
+}
