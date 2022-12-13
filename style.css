@@ -86,22 +86,16 @@ body{
     padding: 20px;
 }
 
-body{
-    background-color: #ccc;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #222;
-    margin-top: 100px;
-}
 
 img{
     width: 100%;
 }
 
-h1{
+.card h1{
     margin: 15px 0;
 }
 
-h2{
+.card h2{
     margin: 0;
     font-weight: 100;
 }
