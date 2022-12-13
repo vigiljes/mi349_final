@@ -87,7 +87,7 @@ body{
 }
 
 .album{
-    display: block;
+    display: inline-block;
 }
 
 
