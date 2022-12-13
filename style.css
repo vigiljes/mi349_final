@@ -78,6 +78,7 @@ body{
     box-shadow: rgba(0, 0 0, 0.1) 0px 10px 10px;
     border: 1px solid gray;
     padding-left: 155px;
+    display: flex;
 }
 
 .album{
@@ -86,8 +87,5 @@ body{
     padding: 20px;
 }
 
-.album{
-    display: inline-block;
-}
 
 
