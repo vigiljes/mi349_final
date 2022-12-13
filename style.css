@@ -83,7 +83,7 @@ body{
     display: block;
 }
 
-.crate li a img:hover{
+.craet li a img:hover{
     opacity: 0.5;
     transition: opacity ease-in-out 0.1747s;
 }
