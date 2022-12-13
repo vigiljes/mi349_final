@@ -87,5 +87,7 @@ body{
     padding: 20px;
 }
 
-
+#a1{
+    flex: 2;
+}
 
