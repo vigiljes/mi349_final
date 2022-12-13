@@ -7,20 +7,14 @@ img{
     width: 100%;
 }
 h1{
-    background-color: gray;
+    background-color: white;
     color: orange;
     text-align: right;
     padding-right: 50px;
 }
-h2{
-    background-color: gray;
-    color: orange;
-    text-align: center;
-
-}
 
 p{
-    background-color: gray;
+    background-color: wheat;
     color: white;
 }
 
