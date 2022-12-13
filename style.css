@@ -83,6 +83,10 @@ body{
     display: block;
 }
 
+.content li a img:hover{
+    opacity: 0.5;
+    transition: opacity ease-in-out 0.1747s;
+}
 .album{
     background: black;
     border-radius: 10px;
