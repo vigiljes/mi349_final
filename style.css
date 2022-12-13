@@ -125,7 +125,7 @@ img{
 
 .contacts li {
     width: 30px;
-    display: inline-block;
+    display: block;
     padding: 20px 10px;
 }
 
