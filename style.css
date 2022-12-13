@@ -33,6 +33,7 @@ body{
     float: left;
     box-shadow: rgba(0, 0 0, 0.1) 0px 10px 10px;
     border: 1px solid gray;
+    position: sticky;
 }
 
 
@@ -59,6 +60,7 @@ body{
     border-radius: 15px;
     margin: 0 auto;
     width: 150px;
+    position: sticky;
     float: right;
     box-shadow: rgba(0, 0 0, 0.1) 0px 10px 10px;
     border: 1px solid gray;
